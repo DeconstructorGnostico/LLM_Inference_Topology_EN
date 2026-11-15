@@ -6,4 +6,4 @@
 - Behavior unchanged: tests (pytest: 4 passed) and benchmarks/evaluations match the Spanish version case by case.
 - Hardcoded `/workspace` paths replaced with relative paths (the v3 adapter uses the sibling folder `pure_agent_v3` or the `AGENT_PURE_V3_ROOT` variable).
 - New freeze SHA-256 (alphabetical concatenation of `*.py`):
-- `topology`/*.py: `6219578ba712de2c8fe5428a9672334c78ab2c8869eacbe2dee2be1d799426c7`
+- `topology/*.py`: `6219578ba712de2c8fe5428a9672334c78ab2c8869eacbe2dee2be1d799426c7`
